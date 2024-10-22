@@ -1,34 +1,14 @@
 {
-    "sa": {
-        "reviewText": "مصنفة بدرجة عالية من قبل العملاء",
-        "ratings": "9.2K | ❤️ 2.4M"
+    "ar": {
+        "reviewText": "مصنفة بدرجة عالية من قبل العملاء"
     },
-    "ae": {
-        "reviewText": "مُصنفة بدرجة عالية من قبل العملاء",
-        "ratings": "9.2K | ❤️ 2.4M"
+    "en": {
+        "reviewText": "Highly rated by customers"
     },
-    "kw": {
-        "reviewText": "مُصنفة بدرجة عالية من قبل الزبائن",
-        "ratings": "9.2K | ❤️ 2.4M"
+    "es": {
+        "reviewText": "Clasificada altamente por los clientes"
     },
-    "qa": {
-        "reviewText": "مُصنفة بدرجة عالية من قبل العملاء",
-        "ratings": "9.2K | ❤️ 2.4M"
-    },
-    "om": {
-        "reviewText": "مصنفة بدرجة عالية من قبل الزبائن",
-        "ratings": "9.2K | ❤️ 2.4M"
-    },
-    "bh": {
-        "reviewText": "مُصنفة بدرجة عالية من قبل العملاء",
-        "ratings": "9.2K | ❤️ 2.4M"
-    },
-    "ma": {
-        "reviewText": "مُصنفة بدرجة عالية من قبل الزبائن",
-        "ratings": "9.2K | ❤️ 2.4M"
-    },
-    "default": {
-        "reviewText": "Highly rated by customers",
-        "ratings": "9.2K | ❤️ 2.4M"
+    "fr": {
+        "reviewText": "Classée hautement par les clients"
     }
 }
